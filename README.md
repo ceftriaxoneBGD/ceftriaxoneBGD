@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ceftriaxoneBGD, M.D. working in Clinical Genetics - WES, WGS data analysis.
+- 👀 I’m interested in learning more about ways to speed up and improve my analysis process using bioinformatic tools.
+- 🌱 I’m currently learning how to use command line.
